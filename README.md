@@ -22,7 +22,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ae7MvboL2unLK_6tmHCEEQYpyUiSN-QgMJ
 1. Unit 1 認識電腦
 2. Unit 2 用Python
 3. 課程錄影
+   
    https://youtu.be/YC3NMICbA3s
+   
    https://youtu.be/_6XHyuxf2O4
    
 
