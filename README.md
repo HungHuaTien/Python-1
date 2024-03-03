@@ -14,7 +14,7 @@
 
 1. Unit 2 用Python
 2. Unit 3 輸入資料
-3. 學號資料夾表單：https://forms.gle/FQvKLxegtDiibM8b7 
+3. 隨堂練習表單：https://forms.gle/FQvKLxegtDiibM8b7 
 4. MSTeams:
 https://teams.microsoft.com/l/meetup-join/19%3ae7MvboL2unLK_6tmHCEEQYpyUiSN-QgMJpEu5dxf8nw1%40thread.tacv2/1709418642932?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
 
