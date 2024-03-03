@@ -4,7 +4,7 @@
 
 1. 課程Line群組：https://line.me/ti/g/bogTMUsFip
 2. 課程Github網頁：https://github.com/HungHuaTien/
-3. 課程講義:https://reurl.cc/mr2EZV 
+3. 課程講義: https://reurl.cc/mr2EZV 
 4. 分組隨堂練習參考答案： https://reurl.cc/67el3d
 5. 學習幫手: (1) ChatGPT https://chat.openai.com/ 或 (2) ChatEverywhere https://chateverywhere.app/zh
 
