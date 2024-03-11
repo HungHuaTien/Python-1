@@ -15,6 +15,7 @@
 2. Unit 3 輸入資料
 3. 錄影檔案:
    https://youtu.be/4UpjOJaTLRQ
+   
    https://youtu.be/fdAmYdCxTXU
 
 ### Week 3 2024/03/04 （一）
