@@ -9,6 +9,12 @@
 
 ## 每週課程進度
 
+### Week 6 2024/03/15 （一）
+
+1. Unit 4 處理資料
+2. MS Teams
+   https://teams.microsoft.com/l/meetup-join/19%3ae7MvboL2unLK_6tmHCEEQYpyUiSN-QgMJpEu5dxf8nw1%40thread.tacv2/1711285594556?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 ### Week 5 2024/03/18 （一）
 
 1. Unit 3 輸入資料
